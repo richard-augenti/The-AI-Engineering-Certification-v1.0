@@ -1,0 +1,10 @@
+{
+    "files.watcherExclude": {
+      "**/.venv/**": true,
+      "**/site-packages/**": true
+    },
+    "search.exclude": {
+      "**/.venv/**": true
+    },
+    "python.terminal.activateEnvironment": false
+  }
